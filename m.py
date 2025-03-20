@@ -6,9 +6,9 @@ import threading
 from datetime import datetime
 
 # Hardcoded API credentials
-API_ID = 15742678  # Replace with your Telegram API ID
-API_HASH = "cc12d5665dea69bc252688ff18ec2b14"  # Replace with your Telegram API Hash
-BOT_TOKEN = "7711367849:AAH6KSzfzTWmScszzDXf9ENRLQrjeDklLuM"  # Replace with your bot token
+API_ID = 23227192  # Replace with your Telegram API ID
+API_HASH = "7c3b59c3bb3429025f76b6840c7b7bf0"  # Replace with your Telegram API Hash
+BOT_TOKEN = "7203086623:AAHXuhtp7qOFxOcsgGZIXnPtTfix8LYSn1M"  # Replace with your bot token
 
 # MongoDB setup (Replace with your MongoDB URI and database name)
 MONGO_URI = "mongodb+srv://Ageon:vQXSBs8M73gWVYzt@cluster0.ltsfi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'"
